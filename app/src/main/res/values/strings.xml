@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadableFonts</string>
+    <string name="default_font_tv">Default font</string>
+    <string name="xml_downloadable_font_tv">Downloaded font via XML</string>
+    <string name="dynamic_downloadable_font_tv">Dynamically downloaded font</string>
+    <string name="request_failed">Font request failed</string>
+</resources>
