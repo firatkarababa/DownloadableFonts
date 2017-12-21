@@ -4,4 +4,6 @@
     <string name="xml_downloadable_font_tv">Downloaded font via XML</string>
     <string name="dynamic_downloadable_font_tv">Dynamically downloaded font</string>
     <string name="request_failed">Font request failed</string>
+    <string name="switch_button_string">SWITCH DYNAMIC FONT</string>
+    <string name="switch_font_textview_label">Downloading and Setting Font..</string>
 </resources>
